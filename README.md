@@ -6,8 +6,7 @@ Coursework and embedded systems projects for ECEN 2440 at CU Boulder.
 - Raspberry Pi Pico (RP2040)
 
 ## Programming
-- MicroPython
+- Embedded C/C++
 
 ## Development Environment
 - Visual Studio Code
-- MicroPico
