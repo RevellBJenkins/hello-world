@@ -1,6 +1,6 @@
 # ECEN 2440 - Applications of Embedded Systems
 
-Coursework and embedded systems projects for ECEN 2440 at CU Boulder.
+I´m a student at CU Boulder making a Sumo bot for class
 
 ## Hardware
 - Raspberry Pi Pico (RP2040)
